@@ -117,7 +117,7 @@ We only share your personal data with recipients if this is necessary for fulfil
 
 We will delete or anonymize your personal data as soon as it is no longer required for the purposes stated in this Privacy Notice, or if you have requested us to do so and there is a right to data deletion. An exception may occur if legal retention obligations require a storage period that deviates from this.
 
-If you have applied for a job or provided your data for future job postings, we will keep your personal data for one year after the last activity. This could be any activity, for example your recruiter had to send you a rejection because there was no match.  If there was no match, but your application was interesting to us, the recruiter will move your record to a candidate pool, which is exempt from purge. You will be notified by email, when this is the case. If you do not agree with the further storage of your data, you can simply send us a reply email and your data will be purged.
+If you have applied for a job or provided your data for future job postings, we will keep your personal data for one year after the last activity. This could be any activity, for example, your recruiter had to send you a rejection because there was no match. If there was no match, but your application was interesting to us, the recruiter will move your record to a candidate pool, which is exempt from purge. You will be notified by email, when this is the case. If you do not agree with the further storage of your data, you can simply send us a reply email and your data will be purged.
 
 ### 7\. Which rights do you have?
 
