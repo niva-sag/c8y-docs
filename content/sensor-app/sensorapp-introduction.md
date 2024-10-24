@@ -11,7 +11,7 @@ aliases:
 
 The {{< sensor-app >}} is a free smartphone application available for iOS and Android smartphones. It is the successor of the previous Cloud Sensor App.
 
-The app is designed to collect measurements from your smartphone, nearby Bluetooth device sensors, and vehicle On-board Debug (OBD) sensors, and send them to the {{< product-c8y-iot >}} platform. It has a straightforward registration workflow to get you up and running quickly and provides an easy way to get data into {{< product-c8y-iot >}}.
+The app is designed to collect measurements from your smartphone, nearby Bluetooth device sensors, and vehicle On-board Debug (OBD) sensors, and send them to the {{< product-c8y-iot >}} platform. It has a straightforward registration workflow to get you up and running quickly.
 
 If you are using the {{< product-c8y-iot >}} free trial, the app ideally helps you to quickly get familiar with the platform as it provides an easy way to connect devices and sensors. Capturing data from Bluetooth devices with {{< product-c8y-iot >}} moreover saves a lot of implementation effort.
 
