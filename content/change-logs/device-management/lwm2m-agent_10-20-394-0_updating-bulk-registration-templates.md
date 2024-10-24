@@ -16,5 +16,5 @@ version: 10.20.394.0
 ---
 
 The wizard for bulk registering LWM2M devices to Cumulocity provides default bulk registration templates.
-These bulk device registration templates have been updated to reflect new properties including X.509 security
+These templates have been updated to reflect new properties including the X.509 security
 mode.
