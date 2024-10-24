@@ -14,4 +14,4 @@ build_artifact:
 ticket: DM-3955
 version: 1020.35.2
 ---
-Previously, when using a JSON path in the 'displayProperty' of a typeahead control, the validation not allowing free entries (allowFreeEntries = false) was not working correctly and could lead to unexpected behavior, like creating orphan entries when an item needs to be assigned to a parent entity, etc. This issue has now been fixed. This change improves the reliability and usability of typeahead controls in forms.
+Previously, when using a JSON path in the `displayProperty` of a typeahead control, the validation not allowing free entries (allowFreeEntries = false) was not working correctly and could lead to unexpected behavior, such as creating orphan entries when an item needs to be assigned to a parent entity. This issue has now been fixed. This change improves the reliability and usability of typeahead controls in forms.
