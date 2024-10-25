@@ -14,4 +14,4 @@ build_artifact:
 ticket: DM-4007
 version: 10.20.400.0
 ---
-In certain cases, real-time connections could be disrupted due to error-handling issues within the LWM2M agent. This issue has now been resolved.
+In certain cases, real-time connections for the operation notifications could be disrupted due to error-handling issues within the LWM2M service. This issue has now been resolved.
