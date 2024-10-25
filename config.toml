@@ -73,7 +73,7 @@ relativeURLs = true
     link = "https://ecosystem.cumulocity.com/devices/?filter_cumulocity_certified=yes"
 
   [[params.additionalResources]]
-    name = "Partner Solutions Ecosystem"
+    name = "Partner Solutions"
     link = "https://ecosystem.cumulocity.com/solution-partner-ecosystem-portal/"
 
   [[params.additionalResources]]
