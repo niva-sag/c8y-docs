@@ -1,6 +1,6 @@
 ---
 date: 
-title: Realtime notifications fix 
+title: Realtime operation notifications fail-safe improvements for LWM2M service
 product_area: Device management & connectivity
 change_type:
   - value: change-VSkj2iV9m
