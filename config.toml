@@ -69,7 +69,7 @@ relativeURLs = true
     link = "https://empower.softwareag.com/"
 
   [[params.additionalResources]]
-    name = "Partner Devices Ecosystem"
+    name = "Partner Devices"
     link = "https://ecosystem.cumulocity.com/devices/?filter_cumulocity_certified=yes"
 
   [[params.additionalResources]]
