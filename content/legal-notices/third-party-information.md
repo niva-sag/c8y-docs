@@ -1,6 +1,6 @@
 ---
 weight: 50
-title: Third-party information
+title: Third-party Information
 layout: bundle
 sector:
   - terms_conditions
