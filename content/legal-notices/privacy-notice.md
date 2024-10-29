@@ -150,7 +150,7 @@ In this case, please address your inquiries directly to the relevant controller.
 
 For residents of the United States of America the respective local privacy notices apply in addition to this Privacy Notice.
 
-* **US State Privacy Notice** *will add link to US States Privacy Notice*
+* [US State Privacy Notice](/legal-notices/us-state-privacy-notice/)
 
 
 ### 11\. Where can you address complaints to?

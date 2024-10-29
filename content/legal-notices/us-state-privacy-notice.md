@@ -1,6 +1,6 @@
 ---
 weight: 40
-title: US States Privacy Notice
+title: US State Privacy Notice
 layout: bundle
 sector:
   - terms_conditions
