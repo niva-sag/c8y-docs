@@ -113,32 +113,32 @@ Accordingly, we “Share” and use your information for Targeted Advertising. S
 
 Cumulocity also  Shares your Personal Information with partner businesses for joint advertising, promotion and marketing  (as described above) in California, Colorado, Connecticut, Texas, Utah, and Virginia. You have the  option to opt-out of sharing or Targeted Advertising through this Privacy Notice.
 
-### Sales of Personal Information
+#### Sales of Personal Information
 
 California law provides for certain disclosures about Personal Information we “sell,” which means certain scenarios in which Cumulocity has disclosed Personal Information with third parties or affiliates, in exchange for valuable consideration, which could include situations where we “Share” your personal information as described above for cross-context behavioral advertising.
 
-### Sensitive Personal Information
+#### Sensitive Personal Information
 
 Privacy laws in California, Colorado, Connecticut, Texas, Utah, and Virginia specify certain rights with respect to our collection of certain information those laws designate as “Sensitive Personal Information.” We obtain consent to collect that information in those states where consent is required. Moreover, each state’s privacy laws may consider different pieces of information to be “Sensitive Personal Information.” When we notify residents of certain states that we collect Sensitive Personal Information, that means that we collect Sensitive Personal Information within the meaning of the law of that particular state. We collect Sensitive Personal Information in California, Colorado, Connecticut, Texas, Utah, and Virginia. We collect the types of Sensitive Personal Information, to the extent included in your state’s definition, listed above in the Categories of Personal Information we collect. We do not use Sensitive Personal Information to infer characteristics about you.
 
 Cumulocity does not collect Sensitive Personal Information.
 
-### Your Consumer Rights and Choices
+#### Your Consumer Rights and Choices
 
 Subject to certain limitations, depending on our state of residence, you have the right to (1) request to know more about the categories and specific pieces of Personal Information we collect, use, disclose, and sell, and to access your information, (2) request deletion of your Personal Information, (3) request correction of your Personal Information and (4) not be discriminated against for exercising these rights. If you are a Texas resident, you may have the right to receive a copy of the Personal Information that you have provided to us in a portable and, to the extent technically feasible, readily usable format.
 
-### Exercising Your Privacy Rights
+#### Exercising Your Privacy Rights
 
 To exercise the rights described above, please submit a verifiable consumer request to us by email to the following email address: [dataprotection@cumulocity.com](mailto:dataprotection@cumulocity.com)
 
 Only you, or a person authorized to act on your behalf, may make a verifiable consumer request related to your Personal Information. If we receive your request from an authorized agent and they do not provide a valid power of attorney, we may ask the authorized agent to provide proof that you gave the agent signed permission to submit the request to exercise rights on your behalf. In the absence of a valid power of attorney, we may also require you to verify your own identity directly with us or confirm to us that you otherwise provided the authorized agent permission to submit the request.
 
-### Contact Information
+#### Contact Information
 
 You may appeal a decision relating to your consumer privacy rights request by contacting us by mail at  Cumulocity GmbH, Toulouser Allee 25, 40211 Düsseldorf, Germany, or by email at [dataprotection@cumulocity.com](mailto:dataprotection@cumulocity.com).
 
 If you would like to submit a verifiable consumer rights request, please do so via one of the two designated methods described above. If you have concerns about the result of an appeal, you may contact the attorney general in the state where you reside.
 
-### Changes to Our State-Specific Privacy Notice
+#### Changes to Our State-Specific Privacy Notice
 
 We may change this privacy notice from time to time. If we make changes to this privacy notice, we will notify you by revising the Effective Date at the top of this policy and in, in some cases, we may provide you with additional notice, such as adding a statement of notice on the App and Website or sending you a notification. We encourage you to review this policy regularly to stay informed about our information practices and the choices available to you.
