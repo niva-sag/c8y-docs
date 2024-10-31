@@ -1,5 +1,5 @@
 ---
-weight: 20
+weight: 10
 title: Copyright
 layout: bundle
 sector:

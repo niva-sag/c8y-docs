@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 70
 title: Imprint
 layout: bundle
 sector:

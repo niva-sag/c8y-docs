@@ -1,5 +1,5 @@
 ---
-weight: 25
+weight: 20
 title: Third Party Information
 layout: bundle
 sector:
